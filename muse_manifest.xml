@@ -1,0 +1,78 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ww.com" resolutions="1x" timestamp="1474731680125">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="356429620" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4043698827" ref="index"/>
+    <file name="index.css" crc="523493758" ref="index"/>
+    <file name="nomq_index.css" crc="3762316614" ref="index"/>
+    <file name="iefonts_index.css" crc="321525473" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="index"/>
+    <file name="form_check.php" crc="3805695515" ref="index"/>
+    <file name="form_throttle.php" crc="3802629389" ref="index"/>
+    <file name="form_process.php" crc="54267062" ref="index"/>
+    <file name="form-u5418.php" crc="437583824" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="logo_red.png" crc="467404595" seo="true" ref="index"/>
+    <file name="slider 1.jpg" crc="4233960264" seo="true" ref="index"/>
+    <file name="slider 2.jpg" crc="4036321946" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="student.png" crc="238581707" seo="true" ref="index"/>
+    <file name="about 1.jpg" crc="218700871" ref="index"/>
+    <file name="accordion icon_normal.png" crc="118961503" ref="index"/>
+    <file name="accordion icon_active.png" crc="4082980173" ref="index"/>
+    <file name="instructor 1.jpg" crc="156710493" ref="index"/>
+    <file name="instructor 2.jpg" crc="194757492" ref="index"/>
+    <file name="instructor 3.jpg" crc="260655760" ref="index"/>
+    <file name="facebook.png" crc="3882911832" seo="true" ref="index"/>
+    <file name="twitter.png" crc="4226006740" seo="true" ref="index"/>
+    <file name="youtube.png" crc="510331132" seo="true" ref="index"/>
+    <file name="instagram.png" crc="254943283" seo="true" ref="index"/>
+    <file name="google plus.png" crc="4153874046" seo="true" ref="index"/>
+    <file name="instructor 4.jpg" crc="58886805" ref="index"/>
+    <file name="instructor 5.jpg" crc="4015100947" ref="index"/>
+    <file name="instructor 6.jpg" crc="4167665951" ref="index"/>
+    <file name="teacher.png" crc="83209523" seo="true" ref="index"/>
+    <file name="course 1.jpg" crc="3872162905" ref="index"/>
+    <file name="teacher2.png" crc="105077436" ref="index"/>
+    <file name="course 2.jpg" crc="4216112858" ref="index"/>
+    <file name="course 3.jpg" crc="216291504" ref="index"/>
+    <file name="course 4.jpg" crc="3923587078" ref="index"/>
+    <file name="course 5.jpg" crc="4031091511" ref="index"/>
+    <file name="course 6.jpg" crc="3993877632" ref="index"/>
+    <file name="course 7.jpg" crc="185488639" ref="index"/>
+    <file name="student 1.jpg" crc="502935369" ref="index"/>
+    <file name="student 2.jpg" crc="375738828" ref="index"/>
+    <file name="student 3.jpg" crc="89413943" ref="index"/>
+    <file name="u5424-17.png" crc="3981782061" ref="index"/>
+    <file name="u5424-17-r.png" crc="441962452" ref="index"/>
+    <file name="u5424-17-m.png" crc="441962452" ref="index"/>
+    <file name="u5424-17-fs.png" crc="3981782061" ref="index"/>
+    <file name="menu_normal.png" crc="3974441105" ref="index"/>
+    <file name="menu_active.png" crc="3929277523" ref="index"/>
+    <file name="about 1-u1516-fr.jpg" crc="260078149" ref="index"/>
+    <file name="teacher320x348.png" crc="3791277178" seo="true" ref="index"/>
+    <file name="course 1-u3430-fr.jpg" crc="184220330" ref="index"/>
+    <file name="u5424-172.png" crc="3981782061" ref="index"/>
+    <file name="u5424-17-r2.png" crc="441962452" ref="index"/>
+    <file name="u5424-17-m2.png" crc="441962452" ref="index"/>
+    <file name="u5424-17-fs2.png" crc="3981782061" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3945748037" seo="true" mt="1474731585918" redirect="true"/>
+</manifest>
